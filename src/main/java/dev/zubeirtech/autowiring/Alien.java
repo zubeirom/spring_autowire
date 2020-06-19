@@ -4,7 +4,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Alien {
-
     private int aid;
     private String aname;
     private String tech;
